@@ -8,4 +8,5 @@
   
 座右銘：*不要問旅遊多少錢，問問青春還有多少年*
 
-![youtube](https://www.youtube.com)
+[youtube](https://www.youtube.com)
+![nkust](182513897.png)
